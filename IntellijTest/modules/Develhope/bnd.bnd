@@ -1,0 +1,4 @@
+Bundle-Name: Develhope
+Bundle-SymbolicName: develhope
+Bundle-Version: 1.0.0
+Export-Package: develhope.constants

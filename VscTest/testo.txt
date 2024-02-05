@@ -1,0 +1,12 @@
+Practical
+
+Creare un bottone che al click esegua una chiamata HTTP verso l'endpoint https://v2.jokeapi.dev/joke/Programming. 
+Utilizzando async e await: 
+Stampare nella console il risultato della chiamata di rete 
+Stampare in un H3 la proprietà setup 
+Stampare in un paragrafo la proprietà delivery 
+Se una delle due proprietà non esiste all'interno della risposta far comparire un'alert con il testo "Proprietà non esistente!" 
+Al click del bottone deve essere effettuata una nuova chiamata di rete e il DOM deve aggiornarsi con i nuovi dati. 
+
+Bonus: Implementare un testo "Caricamento in corso..." da far comparire durante l'esecuzione della chiamata HTTP (Deve scomparire quando la chiamata termina)
+
